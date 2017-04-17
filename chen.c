@@ -6,7 +6,13 @@ main
 {
     while(1)
     {
-        printf("打印信息");
+        uint8 a=0;
+        if(a==0)
+        {
+            printf("打印信息");
+        }
     }
+
+
 
 }
